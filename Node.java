@@ -1,7 +1,6 @@
 /**
  * Node structure for max fibonacci heap
- * @author  Nimitbhai Patel
- *          UFID: (7092-9185)
+ * @author  Nimit Patel
  *          npatel1@ufl.edu
  */
 public class Node {
