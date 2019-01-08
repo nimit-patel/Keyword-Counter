@@ -3,7 +3,7 @@ import java.util.Map;
 
 /**
  * Implementation of max fibonacci heap.
- * @author  Nimitbhai Patel
+ * @author  Nimit Patel
  *          npatel1@ufl.edu
  */
 public class MaxFibonacciHeap {
