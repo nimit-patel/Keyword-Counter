@@ -7,8 +7,7 @@ import java.util.Map;
 /**
  *  Keywordcounter program finds top K word.
  *
- *  @author Nimitbhai Patel
- *          UFID: (7092-9185)
+ *  @author Nimit Patel
  *          npatel1@ufl.edu
  */
 public class keywordcounter {
